@@ -1,0 +1,2 @@
+openai-whisper>=20231117
+tqdm>=4.65.0
